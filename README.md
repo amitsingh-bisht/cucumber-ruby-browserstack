@@ -13,20 +13,20 @@ if any error occurs with respect to bundler, then run `bundle update --bundler`
 To run the tests, execute:
 
 ```bash
-cucumber BS_USERNAME=<username> BS_AUTHKEY=<access-key> SELENIUM_PLATFORM=<platform> SELENIUM_BROWSER=<browser-name>
+cucumber BS_USERNAME=<username> BS_AUTHKEY=<access-key> SELENIUM_PLATFORM=<platform> SELENIUM_BROWSER=<browser-name> -f pretty -f junit -o ./reports/report_xml  -f pretty -f html -o ./reports/report_html.html
 ```
 or
 ```bash
-cucumber BS_USERNAME=<username> BS_AUTHKEY=<access-key> BS_AUTOMATE_OS=<os> BS_AUTOMATE_OS_VERSION=<os-version> SELENIUM_BROWSER=<browser-name>
+cucumber BS_USERNAME=<username> BS_AUTHKEY=<access-key> BS_AUTOMATE_OS=<os> BS_AUTOMATE_OS_VERSION=<os-version> SELENIUM_BROWSER=<browser-name> -f pretty -f junit -o ./reports/report_xml  -f pretty -f html -o ./reports/report_html.html
 ```
 
 Examples:
 ```bash
-cucumber BS_USERNAME=<username> BS_AUTHKEY=<access-key> SELENIUM_PLATFORM=WINDOWS SELENIUM_BROWSER=chrome
+cucumber BS_USERNAME=<username> BS_AUTHKEY=<access-key> SELENIUM_PLATFORM=WINDOWS SELENIUM_BROWSER=chrome -f pretty -f junit -o ./reports/report_xml  -f pretty -f html -o ./reports/report_html.html
 ```
 or
 ```bash
-cucumber BS_USERNAME=<username> BS_AUTHKEY=<access-key> BS_AUTOMATE_OS="OS X" BS_AUTOMATE_OS_VERSION="Mojave" SELENIUM_BROWSER="chrome"
+cucumber BS_USERNAME=<username> BS_AUTHKEY=<access-key> BS_AUTOMATE_OS="OS X" BS_AUTOMATE_OS_VERSION="Mojave" SELENIUM_BROWSER="chrome" -f pretty -f junit -o ./reports/report_xml  -f pretty -f html -o ./reports/report_html.html
 ```
 
 Alternatively the variables can be set in the environment using env or your CI framework (like Travis or Jenkins)
