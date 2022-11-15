@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="1" errors="0" skipped="0" tests="1" time="0.020931" name="Browserstack test">
+<testcase classname="Browserstack test" name="Can add the product in cart" time="0.020931">
+  <failure message="failed Can add the product in cart" type="failed">
+    <![CDATA[Scenario: Can add the product in cart
+
+Given I visit bstackdemo website
+
+Message:
+]]>
+    <![CDATA[undefined method `assert' for #<BStackDemo:0x00007fa0f51ba830 @driver=nil> (NoMethodError)
+./features/pages/home_page.rb:15:in `rescue_exception'
+./features/pages/home_page.rb:26:in `rescue in visit_website'
+./features/pages/home_page.rb:18:in `visit_website'
+./features/step_definitions/sample_steps.rb:4:in `"I visit bstackdemo website"'
+features/sample.feature:4:in `Given I visit bstackdemo website']]>
+  </failure>
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+</testsuite>
