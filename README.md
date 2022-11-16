@@ -18,6 +18,9 @@ cucumber features/ --tags @<tag_name> username=<username> accesskey=<access-key>
 
 Alternatively the variables can be set in the environment using env or your CI framework (like Travis or Jenkins)
 
+### ToDo
+add support for rake and run test though `bundle exec rake`
+
 ### Further Reading
 - [Cucumber](https://cucumber.io/)
 - [BrowserStack documentation for Automate](https://www.browserstack.com/automate/ruby)
