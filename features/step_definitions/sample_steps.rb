@@ -1,23 +1,13 @@
-bstackdemo = BStackDemo.new($driver)
+bstackdemo = BStackDemo.new
 
 Given 'I visit bstackdemo website' do
   bstackdemo.visit_website
 end
  
 When "I add a product to the cart" do
-  # Get product text
-  @productOnPageText = find(:xpath, '//*[@id="1"]/p').text
-
-  # Click on add to cart button
-  find(:xpath, '//*[@id="1"]/div[4]').click
+  bstackdemo.add_product_to_cart
 end
  
 Then "I should see same product in cart section" do
-  # If cart is open or not
-  find(:xpath, '//*[@class="float-cart__content"]').visible?
-
-  # Get product text
-  @productOnCartText = find(:xpath, '//*[@id="__next"]/div/div/div[2]/div[2]/div[2]/div/div[3]/p[1]').text
-
-  expect(@productOnCartText).to eq(@productOnPageText)
+  bstackdemo.check_product_in_cart
 end

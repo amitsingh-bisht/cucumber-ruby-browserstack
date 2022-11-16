@@ -1,37 +1,51 @@
-require 'selenium/webdriver'
-require 'capybara/cucumber'
-require 'browserstack/local'
-require 'browserstack-automate'
-BrowserStack.for "cucumber"
+require 'logger'
+require 'rubygems'
+require 'selenium-webdriver'
+require 'selenium_webdriver_helper'
 
-url = "http://#{ENV['BS_USERNAME']}:#{ENV['BS_AUTHKEY']}@hub.browserstack.com/wd/hub"
-$logger = Logger.new('selenium.log')
+include SeleniumWebdriverHelper
 
-Capybara.register_driver :browserstack do |app|
-	$logger.info("--------- Test is running in remote ---------")
-  capabilities = Selenium::WebDriver::Remote::Capabilities.new
-	if ENV['BS_AUTOMATE_OS']
-		capabilities['os'] = ENV['BS_AUTOMATE_OS']
-		capabilities['os_version'] = ENV['BS_AUTOMATE_OS_VERSION']
-	else
-		capabilities['platform'] = ENV['SELENIUM_PLATFORM'] || 'ANY'
+URL = 'https://username:accesskey@hub-cloud.browserstack.com/wd/hub'
+
+Before do |scenario|
+
+  feature_name = scenario.feature
+  puts feature_name
+  scenario_name = scenario.name
+  puts scenario_name
+  # tag_name = scenario.
+
+	def run_remote_session
+		logger = Logger.new('selenium.log')
+		logger.info("Test is running in remote")
+		url = URL.gsub("username",ENV["username"]).gsub("accesskey",ENV["accesskey"])
+		capabilities = Selenium::WebDriver::Remote::Capabilities.new
+		capabilities['browser'] = 'chrome'
+		capabilities['browser_version'] = '96.0'
+		capabilities['os'] = 'Windows'
+		capabilities['os_version'] = '10'
+		capabilities['name'] = 'parallel test 1' # Test name
+		capabilities['build'] = 'automate flipkart website' # CI/CD job or build name
+		capabilities['browserstack.debug'] = 'true'  # for enabling visual logs
+		$driver = Selenium::WebDriver.for(:remote, :url => url, :desired_capabilities => capabilities)
+		initialize_driver($driver)
 	end
 
-	capabilities['browser'] = ENV['SELENIUM_BROWSER'] || 'chrome'
-	capabilities['browser_version'] = ENV['SELENIUM_VERSION'] if ENV['SELENIUM_VERSION']
-	capabilities['browserstack.debug'] = 'true'
-	capabilities['project'] = ENV['BS_AUTOMATE_PROJECT'] if ENV['BS_AUTOMATE_PROJECT']
-	capabilities['build'] = ENV['BS_AUTOMATE_BUILD']? ENV['BS_AUTOMATE_BUILD'] : 'browserstack-build-1'
-  capabilities['browserstack.source'] = 'cucumber-ruby:sample-master:v1.0'
-	$logger.info("url: #{url}")
-  $driver = Capybara::Selenium::Driver.new(app, :browser => :remote, :url => url, :desired_capabilities => capabilities)
+	def run_local_session
+		logger = Logger.new('selenium.log')
+		logger.info("Test is running in local")
+		Selenium::WebDriver::Chrome::Service.driver_path="./chromedriver"
+		options = Selenium::WebDriver::Chrome::Options.new
+		options.add_option('detach',true)
+		caps = [options, Selenium::WebDriver::Remote::Capabilities.chrome]
+		$driver = Selenium::WebDriver.for :chrome, capabilities:caps
+		initialize_driver($driver)
+	end
+
+  ENV['remote'].eql?('true') ? run_remote_session : run_local_session
 end
 
-Capybara.default_driver = :browserstack
-Capybara.app_host = "http://www.google.com"
-Capybara.run_server = false
-
-at_exit do |scenario|
-  puts scenario
-	status = $test_case_passed ? 'passed' : 'failed'
+After do |scenario|
+	# $driver.execute_script('browserstack_executor: {"action": "setSessionStatus", "arguments": {"status":"passed", "reason": "Flipkart website has been automated successfully !"}}')
+	$driver.quit()
 end
