@@ -1,7 +1,7 @@
 @bstackdemo
 Feature: Browserstack test
 
-  @todo
+  @ui
   Scenario: Can add the product in cart
     Given I visit bstackdemo website
     When I add a product to the cart

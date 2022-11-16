@@ -1,84 +1,18 @@
-I, [2022-11-15T15:43:49.434435 #5021]  INFO -- : visiting https://www.bstackdemo.com/
-E, [2022-11-15T15:43:49.435169 #5021] ERROR -- : failed in visiting bstackdemo website
-I, [2022-11-15T15:45:13.594116 #5059]  INFO -- : visiting https://www.bstackdemo.com/
-E, [2022-11-15T15:45:13.594822 #5059] ERROR -- : failed in visiting bstackdemo website
-I, [2022-11-15T15:46:09.270359 #5097]  INFO -- : visiting https://www.bstackdemo.com/
-I, [2022-11-15T15:46:17.327232 #5119]  INFO -- : visiting https://www.bstackdemo.com/
-I, [2022-11-15T15:46:27.598564 #5142]  INFO -- : visiting https://www.bstackdemo.com/
-I, [2022-11-15T15:47:17.050275 #5168]  INFO -- : visiting https://www.bstackdemo.com/
-E, [2022-11-15T15:47:17.051144 #5168] ERROR -- : failed in visiting bstackdemo website
-I, [2022-11-16T08:22:01.873908 #27809]  INFO -- : Test is running in local
-I, [2022-11-16T08:22:35.368702 #27832]  INFO -- : Test is running in local
-I, [2022-11-16T08:23:17.910943 #27857]  INFO -- : Test is running in local
-I, [2022-11-16T08:23:41.553641 #27897]  INFO -- : Test is running in remote
-I, [2022-11-16T08:23:58.173054 #27919]  INFO -- : Test is running in remote
-I, [2022-11-16T08:29:00.501211 #28174]  INFO -- : Test is running in remote
-I, [2022-11-16T08:29:11.232804 #28195]  INFO -- : Test is running in remote
-I, [2022-11-16T08:29:50.190779 #28218]  INFO -- : Test is running in remote
-I, [2022-11-16T08:29:59.624130 #28236]  INFO -- : Test is running in local
-I, [2022-11-16T08:30:49.103750 #28265]  INFO -- : Test is running in local
-I, [2022-11-16T08:31:01.099739 #28287]  INFO -- : Test is running in remote
-I, [2022-11-16T08:31:17.269369 #28309]  INFO -- : Test is running in remote
-I, [2022-11-16T08:32:53.411630 #28348]  INFO -- : Test is running in remote
-I, [2022-11-16T08:33:58.606509 #28373]  INFO -- : Test is running in remote
-I, [2022-11-16T08:42:07.453334 #28542]  INFO -- : Test is running in remote
-I, [2022-11-16T08:43:26.828816 #28583]  INFO -- : Test is running in remote
-E, [2022-11-16T08:43:34.472512 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:34.677231 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:34.881869 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:35.082676 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:35.285527 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:35.488494 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:35.690691 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:35.896297 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:36.101587 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:36.307379 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:36.512032 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:36.715211 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:36.920477 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:37.125481 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:37.327889 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:37.531841 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:37.733624 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:37.938342 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:38.143411 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:38.346953 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:38.549524 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:38.751983 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:38.957041 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:39.158817 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-E, [2022-11-16T08:43:39.361566 #28583] ERROR -- : [Exception] underlying webdriver instance does not support javascript underlying webdriver instance does not support javascript
-I, [2022-11-16T08:43:51.653796 #28604]  INFO -- : Test is running in remote
-I, [2022-11-16T08:44:00.379787 #28604]  INFO -- : visited https://www.bstackdemo.com/
-I, [2022-11-16T08:44:00.708949 #28604]  INFO -- : screenshot captured and saved at path screenshots/screenshots.png
-I, [2022-11-16T08:44:00.709079 #28604]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
-I, [2022-11-16T08:47:16.573935 #28666]  INFO -- : Test is running in remote
-I, [2022-11-16T08:47:24.282669 #28666]  INFO -- : visited https://www.bstackdemo.com/
-I, [2022-11-16T08:47:24.497879 #28666]  INFO -- : screenshot captured and saved at path screenshots/screenshots.png
-I, [2022-11-16T08:47:24.498049 #28666]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
-I, [2022-11-16T08:52:19.507476 #28729]  INFO -- : Test is running in remote
-I, [2022-11-16T08:52:28.297646 #28729]  INFO -- : visited https://www.bstackdemo.com/
-I, [2022-11-16T08:52:28.610816 #28729]  INFO -- : screenshot captured and saved at path screenshots/screenshots.png
-I, [2022-11-16T08:52:28.611009 #28729]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
-I, [2022-11-16T08:53:50.698980 #28757]  INFO -- : Test is running in remote
-I, [2022-11-16T08:53:57.752401 #28757]  INFO -- : visited https://www.bstackdemo.com/
-I, [2022-11-16T08:53:58.107660 #28757]  INFO -- : screenshot captured and saved at path screenshots/screenshots.png
-I, [2022-11-16T08:53:58.107805 #28757]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
-I, [2022-11-16T08:54:44.479502 #28785]  INFO -- : Test is running in remote
-I, [2022-11-16T08:54:51.956415 #28785]  INFO -- : visited https://www.bstackdemo.com/
-I, [2022-11-16T08:54:52.290889 #28785]  INFO -- : screenshot captured and saved at path screenshots/screenshots.png
-I, [2022-11-16T08:54:52.291036 #28785]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
-I, [2022-11-16T08:57:53.813560 #28849]  INFO -- : Test is running in remote
-I, [2022-11-16T08:58:04.437896 #28849]  INFO -- : visited https://www.bstackdemo.com/
-I, [2022-11-16T08:58:04.807562 #28849]  INFO -- : screenshot captured and saved at path screenshots/screenshots.png
-I, [2022-11-16T08:58:04.807637 #28849]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
-I, [2022-11-16T08:58:12.485425 #28881]  INFO -- : Test is running in remote
-I, [2022-11-16T08:58:27.312648 #28881]  INFO -- : visited https://www.bstackdemo.com/
-I, [2022-11-16T08:58:27.647589 #28881]  INFO -- : screenshot captured and saved at path screenshots/screenshots.png
-I, [2022-11-16T08:58:27.647796 #28881]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
-I, [2022-11-16T08:59:22.894723 #28915]  INFO -- : Test is running in remote
-I, [2022-11-16T08:59:31.006116 #28915]  INFO -- : visited https://www.bstackdemo.com/
-I, [2022-11-16T08:59:31.337993 #28915]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
-I, [2022-11-16T08:59:31.338146 #28915]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
-I, [2022-11-16T08:59:32.160335 #28915]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
-I, [2022-11-16T08:59:32.613725 #28915]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
+I, [2022-11-16T11:01:26.482593 #34606]  INFO -- : Browserstack test - Can add the product in cart test started
+I, [2022-11-16T11:01:43.132529 #34606]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-11-16T11:01:43.473730 #34606]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-11-16T11:01:43.473814 #34606]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-11-16T11:01:44.404780 #34606]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-11-16T11:01:44.939295 #34606]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
+I, [2022-11-16T11:01:59.815277 #34638]  INFO -- : Browserstack test - Can add the product in cart test started
+I, [2022-11-16T11:02:09.007914 #34638]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-11-16T11:02:09.306089 #34638]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-11-16T11:02:09.306206 #34638]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-11-16T11:02:10.192578 #34638]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-11-16T11:02:10.589703 #34638]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
+I, [2022-11-16T11:05:12.005396 #34757]  INFO -- : Browserstack test - Can add the product in cart test started
+I, [2022-11-16T11:05:21.074843 #34757]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-11-16T11:05:21.796060 #34757]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-11-16T11:05:21.796242 #34757]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-11-16T11:05:22.513344 #34757]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-11-16T11:05:22.948657 #34757]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
