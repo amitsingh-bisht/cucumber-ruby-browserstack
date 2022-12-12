@@ -843,3 +843,126 @@ I, [2022-12-12T21:47:46.424094 #35136]  INFO -- : screenshot captured and saved 
 I, [2022-12-12T21:47:46.424271 #35136]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
 I, [2022-12-12T21:47:48.300880 #35136]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
 I, [2022-12-12T21:47:50.275011 #35136]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T21:51:58.871581 #36551]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api, Examples (#1) test started
+I, [2022-12-12T21:51:59.497422 #36551]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api, Examples (#2) test started
+I, [2022-12-12T21:52:09.102612 #36578]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api, Examples (#1) test started
+I, [2022-12-12T21:52:09.255762 #36578]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api, Examples (#2) test started
+I, [2022-12-12T21:52:09.341921 #36578]  INFO -- : Bstackdemo API test - Get all products test started
+I, [2022-12-12T21:52:09.409507 #36578]  INFO -- : Bstackdemo API test - Get each product count, Examples (#1) test started
+I, [2022-12-12T21:52:09.484049 #36578]  INFO -- : Bstackdemo API test - Get each product count, Examples (#2) test started
+I, [2022-12-12T21:52:09.574796 #36578]  INFO -- : Bstackdemo API test - Get each product count, Examples (#3) test started
+I, [2022-12-12T21:52:09.653827 #36578]  INFO -- : Bstackdemo API test - Get each product count, Examples (#4) test started
+I, [2022-12-12T21:52:09.726063 #36578]  INFO -- : Bstackdemo API test - Get all offers test started
+I, [2022-12-12T21:52:09.801352 #36578]  INFO -- : Bstackdemo API test - Get all offers test started
+I, [2022-12-12T21:52:09.876845 #36578]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T21:52:09.945049 #36578]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T21:52:10.017808 #36578]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T21:52:10.095650 #36578]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T21:52:10.166549 #36578]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T21:54:43.225066 #36714]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api, Examples (#1) test started
+I, [2022-12-12T21:54:43.431573 #36714]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api, Examples (#2) test started
+I, [2022-12-12T21:54:43.567451 #36714]  INFO -- : Bstackdemo API test - Get all products test started
+I, [2022-12-12T21:54:43.698683 #36714]  INFO -- : Bstackdemo API test - Get each product count, Examples (#1) test started
+I, [2022-12-12T21:54:43.843391 #36714]  INFO -- : Bstackdemo API test - Get each product count, Examples (#2) test started
+I, [2022-12-12T21:54:43.967436 #36714]  INFO -- : Bstackdemo API test - Get each product count, Examples (#3) test started
+I, [2022-12-12T21:54:44.088249 #36714]  INFO -- : Bstackdemo API test - Get each product count, Examples (#4) test started
+I, [2022-12-12T21:54:44.246992 #36714]  INFO -- : Bstackdemo API test - Get all offers test started
+I, [2022-12-12T21:54:44.386672 #36714]  INFO -- : Bstackdemo API test - Get all offers test started
+I, [2022-12-12T21:54:56.696972 #36743]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api, Examples (#1) test started
+I, [2022-12-12T21:54:56.889784 #36743]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api, Examples (#2) test started
+I, [2022-12-12T21:54:57.008003 #36743]  INFO -- : Bstackdemo API test - Get all products test started
+I, [2022-12-12T21:54:57.127848 #36743]  INFO -- : Bstackdemo API test - Get each product count, Examples (#1) test started
+I, [2022-12-12T21:54:57.264151 #36743]  INFO -- : Bstackdemo API test - Get each product count, Examples (#2) test started
+I, [2022-12-12T21:54:57.381111 #36743]  INFO -- : Bstackdemo API test - Get each product count, Examples (#3) test started
+I, [2022-12-12T21:54:57.496874 #36743]  INFO -- : Bstackdemo API test - Get each product count, Examples (#4) test started
+I, [2022-12-12T21:54:57.642597 #36743]  INFO -- : Bstackdemo API test - Get all offers test started
+I, [2022-12-12T21:54:57.760534 #36743]  INFO -- : Bstackdemo API test - Get all offers test started
+I, [2022-12-12T21:55:44.617459 #36795]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api, Examples (#1) test started
+I, [2022-12-12T21:55:45.461040 #36795]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api, Examples (#2) test started
+I, [2022-12-12T21:55:46.245459 #36795]  INFO -- : Bstackdemo API test - Get all products test started
+I, [2022-12-12T21:55:47.028130 #36795]  INFO -- : Bstackdemo API test - Get each product count, Examples (#1) test started
+I, [2022-12-12T21:55:47.860405 #36795]  INFO -- : Bstackdemo API test - Get each product count, Examples (#2) test started
+I, [2022-12-12T21:55:48.651859 #36795]  INFO -- : Bstackdemo API test - Get each product count, Examples (#3) test started
+I, [2022-12-12T21:55:49.427873 #36795]  INFO -- : Bstackdemo API test - Get each product count, Examples (#4) test started
+I, [2022-12-12T21:55:50.182319 #36795]  INFO -- : Bstackdemo API test - Get all offers test started
+I, [2022-12-12T21:55:50.974591 #36795]  INFO -- : Bstackdemo API test - Get all offers test started
+I, [2022-12-12T21:56:06.381692 #36825]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api, Examples (#1) test started
+I, [2022-12-12T21:56:07.010753 #36825]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api, Examples (#2) test started
+I, [2022-12-12T21:56:07.595387 #36825]  INFO -- : Bstackdemo API test - Get all products test started
+I, [2022-12-12T21:56:08.208124 #36825]  INFO -- : Bstackdemo API test - Get each product count, Examples (#1) test started
+I, [2022-12-12T21:56:08.815503 #36825]  INFO -- : Bstackdemo API test - Get each product count, Examples (#2) test started
+I, [2022-12-12T21:56:09.404837 #36825]  INFO -- : Bstackdemo API test - Get each product count, Examples (#3) test started
+I, [2022-12-12T21:56:09.997504 #36825]  INFO -- : Bstackdemo API test - Get each product count, Examples (#4) test started
+I, [2022-12-12T21:56:10.633803 #36825]  INFO -- : Bstackdemo API test - Get all offers test started
+I, [2022-12-12T21:56:11.266043 #36825]  INFO -- : Bstackdemo API test - Get all offers test started
+I, [2022-12-12T21:56:38.760647 #36859]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api, Examples (#1) test started
+I, [2022-12-12T21:56:39.413351 #36859]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api, Examples (#2) test started
+I, [2022-12-12T21:56:39.996653 #36859]  INFO -- : Bstackdemo API test - Get all products test started
+I, [2022-12-12T21:56:40.585128 #36859]  INFO -- : Bstackdemo API test - Get each product count, Examples (#1) test started
+I, [2022-12-12T21:56:41.184110 #36859]  INFO -- : Bstackdemo API test - Get each product count, Examples (#2) test started
+I, [2022-12-12T21:56:41.754614 #36859]  INFO -- : Bstackdemo API test - Get each product count, Examples (#3) test started
+I, [2022-12-12T21:56:42.338163 #36859]  INFO -- : Bstackdemo API test - Get each product count, Examples (#4) test started
+I, [2022-12-12T21:56:42.947918 #36859]  INFO -- : Bstackdemo API test - Get all offers test started
+I, [2022-12-12T21:56:43.531685 #36859]  INFO -- : Bstackdemo API test - Get all offers test started
+I, [2022-12-12T21:56:44.138136 #36859]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T21:56:44.152691 #36859]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T21:56:44.166258 #36859]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T21:56:44.177544 #36859]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T21:56:44.190387 #36859]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T21:59:54.614034 #36952]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api, Examples (#1) test started
+I, [2022-12-12T21:59:55.277018 #36952]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api, Examples (#2) test started
+I, [2022-12-12T21:59:55.900851 #36952]  INFO -- : Bstackdemo API test - Get all products test started
+I, [2022-12-12T21:59:56.479792 #36952]  INFO -- : Bstackdemo API test - Get each product count, Examples (#1) test started
+I, [2022-12-12T21:59:57.064601 #36952]  INFO -- : Bstackdemo API test - Get each product count, Examples (#2) test started
+I, [2022-12-12T21:59:57.646673 #36952]  INFO -- : Bstackdemo API test - Get each product count, Examples (#3) test started
+I, [2022-12-12T21:59:58.224899 #36952]  INFO -- : Bstackdemo API test - Get each product count, Examples (#4) test started
+I, [2022-12-12T21:59:58.813705 #36952]  INFO -- : Bstackdemo API test - Get all offers test started
+I, [2022-12-12T21:59:59.430813 #36952]  INFO -- : Bstackdemo API test - Get all offers test started
+I, [2022-12-12T22:00:00.067329 #36952]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T22:00:00.076539 #36952]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T22:00:00.088837 #36952]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T22:00:00.097172 #36952]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T22:00:00.106629 #36952]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T22:02:10.920551 #37010]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T22:02:10.948908 #37010]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T22:02:10.961367 #37010]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T22:02:10.969074 #37010]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T22:02:10.979525 #37010]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T22:03:29.055565 #37057]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T22:03:29.087838 #37057]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T22:03:29.102865 #37057]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T22:03:29.112765 #37057]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T22:03:29.124145 #37057]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T22:04:21.574877 #37107]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T22:04:30.480414 #37107]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T22:04:30.656641 #37107]  INFO -- : window maximized
+I, [2022-12-12T22:04:31.310477 #37107]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T22:04:31.310681 #37107]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T22:04:33.404253 #37107]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T22:04:33.665784 #37107]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T22:04:40.918770 #37107]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T22:04:41.109026 #37107]  INFO -- : window maximized
+I, [2022-12-12T22:04:43.095797 #37107]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T22:04:43.095897 #37107]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T22:04:44.793160 #37107]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T22:04:47.051734 #37107]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T22:04:59.775898 #37107]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T22:05:00.101932 #37107]  INFO -- : window maximized
+I, [2022-12-12T22:05:00.825411 #37107]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T22:05:00.825520 #37107]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T22:05:02.493131 #37107]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T22:05:03.394293 #37107]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
+I, [2022-12-12T22:05:03.658200 #37107]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T22:05:12.275102 #37107]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T22:05:12.478787 #37107]  INFO -- : window maximized
+I, [2022-12-12T22:05:13.609790 #37107]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T22:05:13.610073 #37107]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T22:05:16.488443 #37107]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T22:05:18.852063 #37107]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T22:05:20.115475 #37107]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T22:05:35.509535 #37107]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T22:05:35.811188 #37107]  INFO -- : window maximized
+I, [2022-12-12T22:05:36.465010 #37107]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T22:05:36.465200 #37107]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T22:05:42.786055 #37107]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T22:05:44.908594 #37107]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png

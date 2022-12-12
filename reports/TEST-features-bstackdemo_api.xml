@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="0" errors="0" skipped="0" tests="9" time="5.335169" name="Bstackdemo API test">
+<testcase classname="Bstackdemo API test" name="I login to bstackdemo website with api (outline example : | demouser | testingisfun99 | 200 |)" time="0.619077">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Bstackdemo API test" name="I login to bstackdemo website with api (outline example : | demouser | devisfun99 | 200 |)" time="0.578433">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Bstackdemo API test" name="Get all products" time="0.581795">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Bstackdemo API test" name="Get each product count (outline example : | Apple | 9 |)" time="0.601035">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Bstackdemo API test" name="Get each product count (outline example : | Samsung | 7 |)" time="0.609490">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Bstackdemo API test" name="Get each product count (outline example : | Google | 3 |)" time="0.579821">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Bstackdemo API test" name="Get each product count (outline example : | OnePlus | 6 |)" time="0.587675">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Bstackdemo API test" name="Get all offers" time="0.590283">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Bstackdemo API test" name="Get all offers" time="0.587560">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+</testsuite>

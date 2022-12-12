@@ -19,23 +19,19 @@ def remote_capabilities
 	# Selenium::WebDriver.for :remote, :url => url.gsub!('username', ENV['username']).gsub!('accesskey', ENV['accesskey']), :desired_capabilities => capabilities
 end
 
-Before do |scenario|
-  @feature_name = scenario.feature
-  @scenario_name = scenario.name
-  @tag_name = scenario.source_tag_names
+Before('@ui') do |scenario|
+	@feature_name = scenario.feature
+	@scenario_name = scenario.name
+	@tag_name = scenario.source_tag_names
 	logger = Logger.new('selenium.log')
 	logger.info("#{@feature_name} - #{@scenario_name} test started")
-  unless ENV['source'].eql? 'no_browser'
-		$driver = remote_capabilities
-		initialize_driver($driver)
-	end
+	$driver = remote_capabilities
+	initialize_driver($driver)
 end
 
-After do |scenario|
-	unless ENV['source'].eql? 'no_browser'
-		(scenario.failed?) ?
-			$driver.execute_script('browserstack_executor: {"action": "setSessionStatus", "arguments": {"status":"failed", "reason": "BStackdemo website has not been automated successfully !"}}') :
-			$driver.execute_script('browserstack_executor: {"action": "setSessionStatus", "arguments": {"status":"passed", "reason": "BStackdemo website has been automated successfully !"}}')
-		$driver.quit
-  end
+After('@ui') do |scenario|
+	(scenario.failed?) ?
+		$driver.execute_script('browserstack_executor: {"action": "setSessionStatus", "arguments": {"status":"failed", "reason": "BStackdemo website has not been automated successfully !"}}') :
+		$driver.execute_script('browserstack_executor: {"action": "setSessionStatus", "arguments": {"status":"passed", "reason": "BStackdemo website has been automated successfully !"}}')
+	$driver.quit
 end
