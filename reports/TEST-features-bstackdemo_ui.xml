@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite failures="0" errors="0" skipped="0" tests="5" time="111.050722" name="Bstackdemo UI test">
-<testcase classname="Bstackdemo UI test" name="I login to bstackdemo website" time="15.444312">
+<testsuite failures="0" errors="0" skipped="0" tests="5" time="74.238417" name="Bstackdemo UI test">
+<testcase classname="Bstackdemo UI test" name="I login to bstackdemo website" time="13.265933">
   <system-out>
     <![CDATA[]]>
   </system-out>
@@ -8,7 +8,7 @@
     <![CDATA[]]>
   </system-err>
 </testcase>
-<testcase classname="Bstackdemo UI test" name="I add first product to favourite" time="18.627915">
+<testcase classname="Bstackdemo UI test" name="I add first product to favourite" time="15.279718">
   <system-out>
     <![CDATA[]]>
   </system-out>
@@ -16,7 +16,7 @@
     <![CDATA[]]>
   </system-err>
 </testcase>
-<testcase classname="Bstackdemo UI test" name="I add first product to cart" time="20.214034">
+<testcase classname="Bstackdemo UI test" name="I add first product to cart" time="15.819407">
   <system-out>
     <![CDATA[]]>
   </system-out>
@@ -24,7 +24,7 @@
     <![CDATA[]]>
   </system-err>
 </testcase>
-<testcase classname="Bstackdemo UI test" name="I verify my cart details" time="21.555494">
+<testcase classname="Bstackdemo UI test" name="I verify my cart details" time="14.813577">
   <system-out>
     <![CDATA[]]>
   </system-out>
@@ -32,7 +32,7 @@
     <![CDATA[]]>
   </system-err>
 </testcase>
-<testcase classname="Bstackdemo UI test" name="I add my shipping address and proceed to submit" time="35.208967">
+<testcase classname="Bstackdemo UI test" name="I add my shipping address and proceed to submit" time="15.059782">
   <system-out>
     <![CDATA[]]>
   </system-out>

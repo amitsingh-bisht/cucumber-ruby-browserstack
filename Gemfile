@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem 'cucumber'
+gem 'cucumber', '~> 3.1.0'
 gem 'selenium-webdriver'
 gem 'logger'
 gem 'selenium_webdriver_helper', '~> 0.4.0'

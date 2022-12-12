@@ -3,7 +3,7 @@ require 'selenium_webdriver_helper'
 
 include SeleniumWebdriverHelper
 
-class BStackDemo
+class BStackDemoUI
   def visit_website
     get_url(BSTACKDEMO)
     maximize_window
