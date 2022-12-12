@@ -1,18 +1,530 @@
-I, [2022-11-16T11:01:26.482593 #34606]  INFO -- : Browserstack test - Can add the product in cart test started
-I, [2022-11-16T11:01:43.132529 #34606]  INFO -- : visited https://www.bstackdemo.com/
-I, [2022-11-16T11:01:43.473730 #34606]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
-I, [2022-11-16T11:01:43.473814 #34606]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
-I, [2022-11-16T11:01:44.404780 #34606]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
-I, [2022-11-16T11:01:44.939295 #34606]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
-I, [2022-11-16T11:01:59.815277 #34638]  INFO -- : Browserstack test - Can add the product in cart test started
-I, [2022-11-16T11:02:09.007914 #34638]  INFO -- : visited https://www.bstackdemo.com/
-I, [2022-11-16T11:02:09.306089 #34638]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
-I, [2022-11-16T11:02:09.306206 #34638]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
-I, [2022-11-16T11:02:10.192578 #34638]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
-I, [2022-11-16T11:02:10.589703 #34638]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
-I, [2022-11-16T11:05:12.005396 #34757]  INFO -- : Browserstack test - Can add the product in cart test started
-I, [2022-11-16T11:05:21.074843 #34757]  INFO -- : visited https://www.bstackdemo.com/
-I, [2022-11-16T11:05:21.796060 #34757]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
-I, [2022-11-16T11:05:21.796242 #34757]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
-I, [2022-11-16T11:05:22.513344 #34757]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
-I, [2022-11-16T11:05:22.948657 #34757]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
+I, [2022-12-12T12:05:39.645438 #17574]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T12:05:52.070377 #17574]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T12:05:52.218764 #17574]  INFO -- : window maximized
+I, [2022-12-12T12:05:53.718698 #17574]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T12:05:53.718879 #17574]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T12:16:46.097849 #17830]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T12:16:57.767216 #17830]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T12:16:58.028413 #17830]  INFO -- : window maximized
+I, [2022-12-12T12:16:59.989850 #17830]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T12:16:59.990028 #17830]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T12:17:02.339530 #17830]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T12:19:27.683485 #17916]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T12:19:37.276744 #17916]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T12:19:37.588897 #17916]  INFO -- : window maximized
+I, [2022-12-12T12:19:39.301274 #17916]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T12:19:39.301511 #17916]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T12:19:41.220235 #17916]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T12:20:55.390302 #17977]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T12:21:03.650075 #17977]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T12:21:04.048789 #17977]  INFO -- : window maximized
+I, [2022-12-12T12:21:06.683528 #17977]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T12:21:06.683949 #17977]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T12:21:10.117637 #17977]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T12:23:40.575073 #18062]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T12:23:46.961080 #18062]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T12:23:47.113587 #18062]  INFO -- : window maximized
+I, [2022-12-12T12:23:49.494007 #18062]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T12:23:49.494181 #18062]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T12:23:51.464255 #18062]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T12:25:57.520655 #18133]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T12:26:03.584400 #18133]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T12:26:03.732136 #18133]  INFO -- : window maximized
+I, [2022-12-12T12:26:05.358506 #18133]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T12:26:05.358651 #18133]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T12:26:06.483806 #18133]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T12:30:04.063356 #18304]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T12:30:22.103396 #18304]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T12:30:22.338598 #18304]  INFO -- : window maximized
+I, [2022-12-12T12:30:24.032081 #18304]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T12:30:24.032360 #18304]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T12:30:25.502790 #18304]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T12:33:38.906111 #18396]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T12:33:54.055331 #18396]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T12:33:54.270142 #18396]  INFO -- : window maximized
+I, [2022-12-12T12:33:57.238530 #18396]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T12:33:57.238704 #18396]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T12:33:59.237440 #18396]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T12:40:37.998401 #18552]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T12:40:53.135579 #18552]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T12:40:54.280537 #18552]  INFO -- : window maximized
+I, [2022-12-12T12:40:57.803930 #18552]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T12:40:57.804074 #18552]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T12:40:59.910685 #18552]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T12:47:20.443915 #18717]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T12:47:27.126158 #18717]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T12:47:27.340227 #18717]  INFO -- : window maximized
+I, [2022-12-12T12:47:28.593458 #18717]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T12:47:28.593750 #18717]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T12:47:30.841032 #18717]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T12:49:26.226768 #18786]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T12:49:37.533227 #18786]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T12:49:37.705453 #18786]  INFO -- : window maximized
+I, [2022-12-12T12:49:39.268843 #18786]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T12:49:39.268937 #18786]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T12:50:09.331266 #18825]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T12:50:17.234333 #18825]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T12:50:17.973883 #18825]  INFO -- : window maximized
+I, [2022-12-12T12:50:19.132252 #18825]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T12:50:19.132343 #18825]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T12:50:20.972842 #18825]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T12:54:02.768227 #18929]  INFO -- : Browserstack test - I add first product to cart test started
+I, [2022-12-12T12:54:12.639820 #18929]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T12:54:12.782565 #18929]  INFO -- : window maximized
+I, [2022-12-12T12:54:14.783077 #18929]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T12:54:14.783165 #18929]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T12:54:17.106651 #18929]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T12:54:18.958802 #18929]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
+I, [2022-12-12T13:00:12.491796 #19069]  INFO -- : Browserstack test - I add first product to cart test started
+I, [2022-12-12T13:00:26.348192 #19069]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T13:00:26.790118 #19069]  INFO -- : window maximized
+I, [2022-12-12T13:00:29.458127 #19069]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T13:00:29.458223 #19069]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T13:00:31.654230 #19069]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T13:00:34.414629 #19069]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
+I, [2022-12-12T13:05:14.992729 #19214]  INFO -- : Browserstack test - I add first product to cart test started
+I, [2022-12-12T13:05:24.605799 #19214]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T13:05:24.800930 #19214]  INFO -- : window maximized
+I, [2022-12-12T13:05:27.466566 #19214]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T13:05:27.466659 #19214]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T13:05:29.629943 #19214]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T13:05:32.374922 #19214]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
+I, [2022-12-12T13:09:42.502488 #19333]  INFO -- : Browserstack test - I add first product to cart test started
+I, [2022-12-12T13:09:54.334693 #19333]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T13:09:54.476938 #19333]  INFO -- : window maximized
+I, [2022-12-12T13:09:57.447497 #19333]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T13:09:57.447596 #19333]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T13:09:59.840760 #19333]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T13:10:02.885708 #19333]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
+I, [2022-12-12T13:14:23.059941 #19447]  INFO -- : Browserstack test - I add first product to cart test started
+I, [2022-12-12T13:14:32.871144 #19447]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T13:14:33.115491 #19447]  INFO -- : window maximized
+I, [2022-12-12T13:14:35.067705 #19447]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T13:14:35.067890 #19447]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T13:14:46.127784 #19447]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T13:14:48.541909 #19447]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
+I, [2022-12-12T13:28:15.481260 #19763]  INFO -- : Browserstack test - I add first product to cart test started
+I, [2022-12-12T13:28:46.672543 #19763]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T13:28:47.289019 #19763]  INFO -- : window maximized
+I, [2022-12-12T13:28:49.947358 #19763]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T13:28:49.947705 #19763]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T13:28:56.277997 #19763]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T13:28:58.391762 #19763]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
+I, [2022-12-12T13:31:13.847539 #19851]  INFO -- : Browserstack test - I add first product to cart test started
+I, [2022-12-12T13:31:38.842584 #19851]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T13:31:39.010021 #19851]  INFO -- : window maximized
+I, [2022-12-12T13:31:41.440529 #19851]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T13:31:41.440724 #19851]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T13:31:43.584685 #19851]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T13:31:45.824326 #19851]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
+I, [2022-12-12T13:33:34.910044 #19927]  INFO -- : Browserstack test - I verify my cart details test started
+I, [2022-12-12T13:33:45.093674 #19927]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T13:33:45.428868 #19927]  INFO -- : window maximized
+I, [2022-12-12T13:33:47.544635 #19927]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T13:33:47.544751 #19927]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T13:33:50.474807 #19927]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T13:39:37.421384 #20077]  INFO -- : Browserstack test - I verify my cart details test started
+I, [2022-12-12T13:39:49.201792 #20077]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T13:39:49.521195 #20077]  INFO -- : window maximized
+I, [2022-12-12T13:39:51.343177 #20077]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T13:39:51.343363 #20077]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T13:39:55.602966 #20077]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T13:42:57.065329 #20156]  INFO -- : Browserstack test - I verify my cart details test started
+I, [2022-12-12T13:43:08.370682 #20156]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T13:43:08.600861 #20156]  INFO -- : window maximized
+I, [2022-12-12T13:43:10.870810 #20156]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T13:43:10.870904 #20156]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T13:43:12.965683 #20156]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T13:46:25.969178 #20254]  INFO -- : Browserstack test - I verify my cart details test started
+I, [2022-12-12T13:46:37.118813 #20254]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T13:46:37.346420 #20254]  INFO -- : window maximized
+I, [2022-12-12T13:46:40.308460 #20254]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T13:46:40.308535 #20254]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T13:46:43.371380 #20254]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T13:46:46.811882 #20254]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T13:48:37.310644 #20332]  INFO -- : Browserstack test - I verify my cart details test started
+I, [2022-12-12T13:48:50.410508 #20332]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T13:48:50.624957 #20332]  INFO -- : window maximized
+I, [2022-12-12T13:48:53.682976 #20332]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T13:48:53.683145 #20332]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T13:48:56.355186 #20332]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T13:49:00.222379 #20332]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T13:53:10.650959 #20457]  INFO -- : Browserstack test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T13:53:18.662999 #20457]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T13:53:18.927593 #20457]  INFO -- : window maximized
+I, [2022-12-12T13:53:21.248519 #20457]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T13:53:21.248595 #20457]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T13:53:24.260171 #20457]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T13:53:28.217847 #20457]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T13:56:23.799921 #20562]  INFO -- : Browserstack test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T13:56:32.932400 #20562]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T13:56:33.242640 #20562]  INFO -- : window maximized
+I, [2022-12-12T13:56:34.516284 #20562]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T13:56:34.516391 #20562]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T13:56:38.364513 #20562]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T13:56:42.202397 #20562]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T14:00:33.007454 #20661]  INFO -- : Browserstack test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T14:00:49.435164 #20661]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:00:49.772467 #20661]  INFO -- : window maximized
+I, [2022-12-12T14:00:51.765622 #20661]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:00:51.766227 #20661]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:00:54.948266 #20661]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:00:59.581638 #20661]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T14:20:46.268149 #21066]  INFO -- : Browserstack test - I add first product to favourite test started
+I, [2022-12-12T14:20:56.597604 #21066]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:20:56.881043 #21066]  INFO -- : window maximized
+I, [2022-12-12T14:20:58.177449 #21066]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:20:58.177524 #21066]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:22:37.211464 #21127]  INFO -- : Browserstack test - I add first product to favourite test started
+I, [2022-12-12T14:22:48.978488 #21127]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:22:49.155668 #21127]  INFO -- : window maximized
+I, [2022-12-12T14:22:50.764207 #21127]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:22:50.764347 #21127]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:22:53.681724 #21127]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:25:11.223114 #21200]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T14:25:23.356848 #21200]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:25:23.647862 #21200]  INFO -- : window maximized
+I, [2022-12-12T14:25:25.418840 #21200]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:25:25.419105 #21200]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:25:32.797321 #21200]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:25:35.290508 #21200]  INFO -- : Browserstack test - I add first product to favourite test started
+I, [2022-12-12T14:25:36.358475 #21200]  INFO -- : Browserstack test - I add first product to cart test started
+I, [2022-12-12T14:25:37.275555 #21200]  INFO -- : Browserstack test - I verify my cart details test started
+I, [2022-12-12T14:25:38.184564 #21200]  INFO -- : Browserstack test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T14:26:25.058827 #21257]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T14:26:34.444625 #21257]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:26:34.917327 #21257]  INFO -- : window maximized
+I, [2022-12-12T14:26:40.636967 #21257]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:26:40.637102 #21257]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:26:50.525177 #21257]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:26:55.013365 #21257]  INFO -- : Browserstack test - I add first product to favourite test started
+I, [2022-12-12T14:26:57.025322 #21257]  INFO -- : Browserstack test - I add first product to cart test started
+I, [2022-12-12T14:26:58.060118 #21257]  INFO -- : Browserstack test - I verify my cart details test started
+I, [2022-12-12T14:26:59.154769 #21257]  INFO -- : Browserstack test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T14:27:30.938340 #21304]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T14:27:31.137841 #21304]  INFO -- : Browserstack test - I add first product to favourite test started
+I, [2022-12-12T14:27:31.229287 #21304]  INFO -- : Browserstack test - I add first product to cart test started
+I, [2022-12-12T14:27:31.322407 #21304]  INFO -- : Browserstack test - I verify my cart details test started
+I, [2022-12-12T14:27:31.427585 #21304]  INFO -- : Browserstack test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T14:27:39.883059 #21329]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T14:27:40.065857 #21329]  INFO -- : Browserstack test - I add first product to favourite test started
+I, [2022-12-12T14:27:40.155530 #21329]  INFO -- : Browserstack test - I add first product to cart test started
+I, [2022-12-12T14:27:40.248554 #21329]  INFO -- : Browserstack test - I verify my cart details test started
+I, [2022-12-12T14:27:40.355633 #21329]  INFO -- : Browserstack test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T14:28:31.419441 #21372]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T14:28:31.602344 #21372]  INFO -- : Browserstack test - I add first product to favourite test started
+I, [2022-12-12T14:28:31.701262 #21372]  INFO -- : Browserstack test - I add first product to cart test started
+I, [2022-12-12T14:28:31.795933 #21372]  INFO -- : Browserstack test - I verify my cart details test started
+I, [2022-12-12T14:28:31.900539 #21372]  INFO -- : Browserstack test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T14:29:14.634251 #21414]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T14:29:24.246086 #21414]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:29:24.503442 #21414]  INFO -- : window maximized
+I, [2022-12-12T14:29:26.017364 #21414]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:29:26.017552 #21414]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:29:29.252328 #21414]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:29:32.073208 #21414]  INFO -- : Browserstack test - I add first product to favourite test started
+I, [2022-12-12T14:29:45.689692 #21414]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:29:46.064353 #21414]  INFO -- : window maximized
+I, [2022-12-12T14:29:48.267158 #21414]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:29:48.267334 #21414]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:29:56.675703 #21414]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:30:03.473561 #21414]  INFO -- : Browserstack test - I add first product to cart test started
+I, [2022-12-12T14:30:12.825002 #21414]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:30:13.152033 #21414]  INFO -- : window maximized
+I, [2022-12-12T14:30:14.464815 #21414]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:30:14.465030 #21414]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:30:17.705124 #21414]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T14:30:20.612021 #21414]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
+I, [2022-12-12T14:30:23.445234 #21414]  INFO -- : Browserstack test - I verify my cart details test started
+I, [2022-12-12T14:30:34.407542 #21414]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:30:34.710911 #21414]  INFO -- : window maximized
+I, [2022-12-12T14:30:36.376387 #21414]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:30:36.376586 #21414]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:30:38.972011 #21414]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:30:42.657173 #21414]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T14:30:46.998960 #21414]  INFO -- : Browserstack test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T14:30:56.211768 #21414]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:30:56.424444 #21414]  INFO -- : window maximized
+I, [2022-12-12T14:31:02.045767 #21414]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:31:02.045911 #21414]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:31:11.067771 #21414]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:31:14.138481 #21414]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T14:32:36.321619 #21506]  INFO -- : Browserstack test - I login to bstackdemo website test started
+I, [2022-12-12T14:32:47.548645 #21506]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:32:47.800401 #21506]  INFO -- : window maximized
+I, [2022-12-12T14:32:50.733540 #21506]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:32:50.733716 #21506]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:32:52.993446 #21506]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:32:55.671309 #21506]  INFO -- : Browserstack test - I add first product to favourite test started
+I, [2022-12-12T14:33:05.756450 #21506]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:33:06.060845 #21506]  INFO -- : window maximized
+I, [2022-12-12T14:33:08.173272 #21506]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:33:08.173352 #21506]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:33:11.980154 #21506]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:33:17.433460 #21506]  INFO -- : Browserstack test - I add first product to cart test started
+I, [2022-12-12T14:33:39.801708 #21506]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:33:40.089432 #21506]  INFO -- : window maximized
+I, [2022-12-12T14:33:42.820238 #21506]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:33:42.820400 #21506]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:33:45.756527 #21506]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T14:33:47.757900 #21506]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
+I, [2022-12-12T14:33:50.719795 #21506]  INFO -- : Browserstack test - I verify my cart details test started
+I, [2022-12-12T14:33:59.294742 #21506]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:33:59.618824 #21506]  INFO -- : window maximized
+I, [2022-12-12T14:34:01.550967 #21506]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:34:01.551069 #21506]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:34:07.352899 #21506]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:34:10.970726 #21506]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T14:34:15.882360 #21506]  INFO -- : Browserstack test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T14:34:27.438363 #21506]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:34:27.819636 #21506]  INFO -- : window maximized
+I, [2022-12-12T14:34:29.099241 #21506]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:34:29.099348 #21506]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:34:33.061278 #21506]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:34:35.775791 #21506]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T14:37:27.615284 #21632]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T14:37:36.759373 #21632]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:37:37.107690 #21632]  INFO -- : window maximized
+I, [2022-12-12T14:37:38.559043 #21632]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:37:38.559251 #21632]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:37:41.582680 #21632]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:39:07.792904 #21719]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T14:39:18.399913 #21719]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:39:18.753041 #21719]  INFO -- : window maximized
+I, [2022-12-12T14:39:19.565061 #21719]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:39:19.565173 #21719]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:39:22.078812 #21719]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:39:48.786941 #21769]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T14:39:48.888101 #21769]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T14:39:48.954431 #21769]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T14:39:49.008287 #21769]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T14:39:49.058726 #21769]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T14:41:01.430824 #21833]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T14:41:11.540017 #21833]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:41:11.751915 #21833]  INFO -- : window maximized
+I, [2022-12-12T14:41:12.946045 #21833]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:41:12.946153 #21833]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:41:16.417265 #21833]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:49:16.368753 #22015]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T14:49:16.512147 #22015]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T14:49:16.563130 #22015]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T14:49:16.614642 #22015]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T14:49:16.681032 #22015]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T14:50:34.476998 #22098]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T14:50:46.325978 #22098]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:50:46.568783 #22098]  INFO -- : window maximized
+I, [2022-12-12T14:50:47.582639 #22098]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:50:47.582824 #22098]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:50:51.975462 #22098]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:50:54.931584 #22098]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T14:51:02.000088 #22098]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:51:02.351992 #22098]  INFO -- : window maximized
+I, [2022-12-12T14:51:03.337625 #22098]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:51:03.337823 #22098]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:51:05.280779 #22098]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:51:09.513082 #22098]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T14:51:20.619963 #22098]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:51:21.151890 #22098]  INFO -- : window maximized
+I, [2022-12-12T14:51:22.583519 #22098]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:51:22.583701 #22098]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:51:25.313648 #22098]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T14:51:26.854218 #22098]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
+I, [2022-12-12T14:51:29.311580 #22098]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T14:51:41.773745 #22098]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:51:42.346860 #22098]  INFO -- : window maximized
+I, [2022-12-12T14:51:44.441877 #22098]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:51:44.442061 #22098]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:51:54.755949 #22098]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:52:05.283150 #22098]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T14:52:15.052772 #22098]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T14:52:22.770179 #22098]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:52:22.962250 #22098]  INFO -- : window maximized
+I, [2022-12-12T14:52:23.905405 #22098]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:52:23.905553 #22098]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:52:26.706355 #22098]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:52:28.523223 #22098]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T14:52:50.385380 #22160]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T14:53:00.869646 #22160]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:53:01.748353 #22160]  INFO -- : window maximized
+I, [2022-12-12T14:53:03.460736 #22160]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:53:03.460922 #22160]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:53:07.032576 #22160]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:53:09.699469 #22160]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T14:53:19.504373 #22160]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:53:19.733914 #22160]  INFO -- : window maximized
+I, [2022-12-12T14:53:20.793325 #22160]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:53:20.793418 #22160]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:53:24.158700 #22160]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:53:29.352189 #22160]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T14:53:37.838694 #22160]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:53:38.144352 #22160]  INFO -- : window maximized
+I, [2022-12-12T14:53:40.039052 #22160]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:53:40.039128 #22160]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:53:46.869732 #22160]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T14:53:48.287419 #22160]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
+I, [2022-12-12T14:53:50.699473 #22160]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T14:53:59.135863 #22160]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:53:59.443085 #22160]  INFO -- : window maximized
+I, [2022-12-12T14:54:00.042902 #22160]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:54:00.043373 #22160]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:54:02.840811 #22160]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:54:08.185716 #22160]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T14:54:13.931989 #22160]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T14:54:26.754426 #22160]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T14:54:27.116543 #22160]  INFO -- : window maximized
+I, [2022-12-12T14:54:28.713239 #22160]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T14:54:28.713521 #22160]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T14:54:31.943480 #22160]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T14:54:34.653473 #22160]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T14:56:55.679314 #22335]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T14:56:55.814410 #22335]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T14:56:55.865255 #22335]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T14:56:55.917071 #22335]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T14:56:55.981736 #22335]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T14:57:06.441812 #22362]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T14:57:06.591022 #22362]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T14:57:06.640371 #22362]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T14:57:06.693314 #22362]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T14:57:06.757015 #22362]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T15:02:28.785203 #22519]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:03:26.668539 #22565]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:04:10.586552 #22606]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:04:53.729388 #22644]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:05:59.522856 #22693]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:06:32.898523 #22727]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:08:17.478378 #22782]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:08:49.515335 #22816]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:09:33.787123 #22856]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:10:28.121446 #22901]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:10:42.356671 #22931]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:13:30.104068 #23038]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:13:30.158568 #23038]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T15:13:30.211002 #23038]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T15:13:30.265155 #23038]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T15:13:30.329023 #23038]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T15:14:15.655111 #23118]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:14:15.847343 #23118]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T15:14:15.900379 #23118]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T15:14:15.953480 #23118]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T15:14:16.018356 #23118]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T15:14:50.224093 #23155]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:14:50.368498 #23155]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T15:14:50.418874 #23155]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T15:14:50.470858 #23155]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T15:14:50.536011 #23155]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T15:15:21.649195 #23192]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:15:21.794645 #23192]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T15:15:21.844817 #23192]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T15:15:21.898634 #23192]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T15:15:21.962221 #23192]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T15:15:35.003644 #23220]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:15:35.145576 #23220]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T15:15:35.198703 #23220]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T15:15:35.251840 #23220]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T15:15:35.317228 #23220]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T15:20:09.590642 #23526]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:20:09.761617 #23526]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T15:20:09.817908 #23526]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T15:20:09.874904 #23526]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T15:20:09.941301 #23526]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T15:21:06.303687 #23595]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:21:13.824280 #23595]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T15:21:14.315472 #23595]  INFO -- : window maximized
+I, [2022-12-12T15:21:17.355777 #23595]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T15:21:17.355887 #23595]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T15:21:29.084997 #23595]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T15:22:12.243675 #23664]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:22:22.367506 #23664]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T15:22:22.856321 #23664]  INFO -- : window maximized
+I, [2022-12-12T15:22:24.507087 #23664]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T15:22:24.507194 #23664]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T15:22:35.566945 #23664]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T15:22:49.511089 #23709]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:22:59.528249 #23709]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T15:22:59.771619 #23709]  INFO -- : window maximized
+I, [2022-12-12T15:23:00.926829 #23709]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T15:23:00.926993 #23709]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T15:23:03.715567 #23709]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T15:23:24.926737 #23750]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:23:44.828208 #23750]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T15:23:45.055010 #23750]  INFO -- : window maximized
+I, [2022-12-12T15:23:45.885840 #23750]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T15:23:45.885955 #23750]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T15:23:48.622712 #23750]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T15:23:51.073228 #23750]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T15:24:00.837029 #23750]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T15:24:01.345619 #23750]  INFO -- : window maximized
+I, [2022-12-12T15:24:02.171194 #23750]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T15:24:02.171484 #23750]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T15:24:05.282424 #23750]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T15:24:13.515190 #23750]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T15:24:24.544639 #23750]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T15:24:24.868922 #23750]  INFO -- : window maximized
+I, [2022-12-12T15:24:26.247403 #23750]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T15:24:26.247813 #23750]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T15:24:30.490864 #23750]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T15:24:32.640646 #23750]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
+I, [2022-12-12T15:24:36.638246 #23750]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T15:24:49.876373 #23750]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T15:24:50.117585 #23750]  INFO -- : window maximized
+I, [2022-12-12T15:24:51.394373 #23750]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T15:24:51.394496 #23750]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T15:24:54.416531 #23750]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T15:24:57.088654 #23750]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T15:25:01.637032 #23750]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T15:25:12.240934 #23750]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T15:25:12.479176 #23750]  INFO -- : window maximized
+I, [2022-12-12T15:25:13.612810 #23750]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T15:25:13.612995 #23750]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T15:25:18.574030 #23750]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T15:25:21.131615 #23750]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T15:25:34.998401 #23836]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:25:46.825971 #23836]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T15:25:47.083275 #23836]  INFO -- : window maximized
+I, [2022-12-12T15:25:48.314710 #23836]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T15:25:48.314898 #23836]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T15:25:50.758524 #23836]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T15:28:44.474366 #24057]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api test started
+I, [2022-12-12T15:28:52.274681 #24087]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api test started
+I, [2022-12-12T15:29:04.906081 #24118]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api test started
+I, [2022-12-12T15:30:22.539276 #24190]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api test started
+I, [2022-12-12T15:30:55.494237 #24233]  INFO -- : Bstackdemo API test - I login to bstackdemo website with api test started
+I, [2022-12-12T15:31:15.451279 #24290]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:31:24.562260 #24290]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T15:31:24.894368 #24290]  INFO -- : window maximized
+I, [2022-12-12T15:31:26.184981 #24290]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T15:31:26.185073 #24290]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T15:31:29.334844 #24290]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T15:31:49.956493 #24336]  INFO -- : Bstackdemo UI test - I login to bstackdemo website test started
+I, [2022-12-12T15:32:00.531423 #24336]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T15:32:01.269332 #24336]  INFO -- : window maximized
+I, [2022-12-12T15:32:03.534499 #24336]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T15:32:03.534682 #24336]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T15:32:17.770066 #24336]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T15:32:22.843422 #24336]  INFO -- : Bstackdemo UI test - I add first product to favourite test started
+I, [2022-12-12T15:32:34.135698 #24336]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T15:32:34.927831 #24336]  INFO -- : window maximized
+I, [2022-12-12T15:32:36.503714 #24336]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T15:32:36.504134 #24336]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T15:32:47.087602 #24336]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T15:33:03.199369 #24336]  INFO -- : Bstackdemo UI test - I add first product to cart test started
+I, [2022-12-12T15:33:14.472884 #24336]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T15:33:14.975356 #24336]  INFO -- : window maximized
+I, [2022-12-12T15:33:16.542004 #24336]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T15:33:16.542146 #24336]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T15:33:18.085922 #24336]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T15:33:19.260842 #24336]  INFO -- : screenshot captured and saved at path screenshots/check_product_in_cart.png
+I, [2022-12-12T15:33:21.563481 #24336]  INFO -- : Bstackdemo UI test - I verify my cart details test started
+I, [2022-12-12T15:33:27.858418 #24336]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T15:33:28.380042 #24336]  INFO -- : window maximized
+I, [2022-12-12T15:33:31.640715 #24336]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T15:33:31.640874 #24336]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T15:33:41.309851 #24336]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T15:33:51.318448 #24336]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png
+I, [2022-12-12T15:34:00.924961 #24336]  INFO -- : Bstackdemo UI test - I add my shipping address and proceed to submit test started
+I, [2022-12-12T15:34:08.627941 #24336]  INFO -- : visited https://www.bstackdemo.com/
+I, [2022-12-12T15:34:08.836335 #24336]  INFO -- : window maximized
+I, [2022-12-12T15:34:09.922703 #24336]  INFO -- : screenshot captured and saved at path screenshots/visit_website.png
+I, [2022-12-12T15:34:09.922798 #24336]  INFO -- : website visited successfully and captured screenshot as bstackdemo.png
+I, [2022-12-12T15:34:12.296136 #24336]  INFO -- : screenshot captured and saved at path screenshots/bstackdemo_login.png
+I, [2022-12-12T15:34:14.615783 #24336]  INFO -- : screenshot captured and saved at path screenshots/add_product_to_cart.png

@@ -1,0 +1,11 @@
+BSTACKDEMO = 'https://www.bstackdemo.com/'.freeze
+TESTSTACKDEMO = 'https://teststack.bsstag.com/'.freeze
+USERNAME = 'demouser'.freeze
+PASSWORD = 'testingisfun99'.freeze
+FAVOURITE_PRODUCTS_FOUND = '1 Product(s) found.'.freeze
+CART_HEADER = 'Order Summary'.freeze
+FIRST_NAME = 'Amit'.freeze
+LAST_NAME = 'Bisht'.freeze
+ADDRESS = 'Mumbai'.freeze
+STATE = 'Maharashtra'.freeze
+POST_CODE = '400058'.freeze
